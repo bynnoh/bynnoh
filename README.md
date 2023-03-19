@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-[![GitHub stats](https://github-readme-stats-nine-psi-34.vercel.app/api?username=bynnoh&hide=stars,issues&show_icons=true)](https://github.com/bynnoh)
+[![GitHub stats](https://github-readme-stats-x993.vercel.app/api?username=bynnoh&hide=stars,issues&show_icons=true)](https://github.com/bynnoh)
 
 
-[![Top Langs](https://github-readme-stats-nine-psi-34.vercel.app/api/top-langs/?username=bynnoh&layout=compact)](https://github.com/bynnoh)
+[![Top Langs](https://github-readme-stats-x993.vercel.app/api/top-langs/?username=bynnoh&layout=compact)](https://github.com/bynnoh)
 
 
 <!--
